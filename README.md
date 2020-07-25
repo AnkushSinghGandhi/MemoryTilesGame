@@ -1,3 +1,5 @@
+0) first you have to install pygame with command "pip install pygame"
+
 1) there aretotal 8 animals
 
 2) each animal has 2 tiles with their photo
