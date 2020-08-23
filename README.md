@@ -1,4 +1,4 @@
-0) first you have to install pygame with command "pip install pygame"
+0) first you have to install pygame with command "pip3 install pygame"
 
 1) there aretotal 8 animals
 
